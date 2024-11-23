@@ -2,7 +2,7 @@
 const nextConfig = {
     reactStrictMode: true,
     images: {
-      domains: ['framerusercontent.com'],
+      domains: ['https://tele-mini-app-murex.vercel.app'],
     },
 }
 
